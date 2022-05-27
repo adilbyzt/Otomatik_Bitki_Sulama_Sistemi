@@ -1,4 +1,4 @@
-# Otomatik Bitki Sulama
+# Otomatik Bitki Sulama Sistemi
 
 # 1. Giriş
 
