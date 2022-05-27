@@ -1,0 +1,2 @@
+# Otomatik_Bitki_Sulama
+  Otomatik Bitki Sulama Sistemi, dışarıdan müdahale olmadan bitkilerin sulanmasını sağlar. Bu sayede bitkiler ihtiyacı olan nem oranında tutularak bitkinin gelişimi verimli şekilde sağlanır. Aynı zamanda mobil uygulama sayesinde bitkinin yanında olunmasına gerek kalmadan oda sıcaklığı, odanın nemi, bitkinin toprak nem oranı ve bitkinin aldığı ışık miktarı uygulama üzerinde gösterilmesi sağlanır.
